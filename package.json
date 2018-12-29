@@ -1,0 +1,25 @@
+{
+  "name": "squodgy-name-generator",
+  "version": "1.0.0",
+  "description": "Name generator based on the worm names of Gavin Free!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreybutenko/squodgy-name-generator.git"
+  },
+  "keywords": [
+    "silly",
+    "name-generator",
+    "name",
+    "generator"
+  ],
+  "author": "Andrey Butenko",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/andreybutenko/squodgy-name-generator/issues"
+  },
+  "homepage": "https://github.com/andreybutenko/squodgy-name-generator#readme"
+}
