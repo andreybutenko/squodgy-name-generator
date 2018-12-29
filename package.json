@@ -1,6 +1,6 @@
 {
   "name": "squodgy-name-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Name generator based on the worm names of Gavin Free!",
   "main": "index.js",
   "scripts": {
