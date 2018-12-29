@@ -2,6 +2,8 @@
 
 Name generator based on the [worm names](http://roosterteeth.wikia.com/wiki/Let%27s_Play_Worms) of [Gavin Free](https://twitter.com/GavinFree)!
 
+Originally developed for use in my [open-source](https://github.com/andreybutenko/uno) multiplayer [Uno game](https://playuno.app/) :)
+
 ## Example Output
 
 ```
